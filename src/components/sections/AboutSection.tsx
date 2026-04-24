@@ -35,19 +35,15 @@ export function AboutSection() {
       <div className="grid md:grid-cols-[1fr_auto] gap-8 md:gap-12 items-start">
         <div className="space-y-4 text-[15px] sm:text-[15.5px] leading-[1.8] tracking-[0.01em] text-muted-foreground">
           <p>
-            Desarrollador{" "}
-            <strong className="text-foreground font-semibold">Backend</strong> con formación en{" "}
-            <strong className="text-foreground font-semibold">Desarrollo de Software</strong> y enfoque en
-            construir aplicaciones robustas con{" "}
+            <strong className="text-foreground font-semibold">Desarrollador Backend</strong> con formación técnica en{" "}
+            <strong className="text-foreground font-semibold">Desarrollo de Software</strong>. Experiencia práctica en el desarrollo de aplicaciones web con{" "}
             <strong className="text-indigo-600 dark:text-indigo-400 font-semibold">Java</strong> y{" "}
-            <strong className="text-indigo-600 dark:text-indigo-400 font-semibold">Spring Boot</strong>.
+            <strong className="text-indigo-600 dark:text-indigo-400 font-semibold">Spring Boot</strong>, implementando arquitecturas{" "}
+            <strong className="text-foreground font-semibold">MVC</strong> y <strong className="text-foreground font-semibold">API REST</strong>.
           </p>
           <p>
-            Trabajo con <strong className="text-foreground font-semibold">PostgreSQL</strong> y{" "}
-            <strong className="text-foreground font-semibold">SQL Server</strong> en el backend, y
-            complemento con{" "}
-            <strong className="text-foreground font-semibold">React</strong> en el frontend para
-            entregar soluciones completas.
+            Manejo de <strong className="text-foreground font-semibold">bases de datos relacionales</strong> e integración con frontend en{" "}
+            <strong className="text-indigo-600 dark:text-indigo-400 font-semibold">React</strong> para construir soluciones completas.
           </p>
           <p>
             Me motiva resolver problemas reales a través del código, aprender tecnologías nuevas

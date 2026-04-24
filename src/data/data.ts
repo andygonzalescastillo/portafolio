@@ -5,7 +5,7 @@ export const PERSONAL_INFO = {
   location: "Lima, Perú",
   avatar: "/proyectos/andy.jpg",
   flagIcon: "/proyectos/peru.png",
-  cvPath: "/cv.pdf",
+  cvPath: "/Andy_Gonzales_Castillo_CV.pdf",
   github: "https://github.com/andygonzalescastillo",
   linkedin:
     "https://www.linkedin.com/in/andy-rodrigo-gonzales-castillo-18a696347/",
